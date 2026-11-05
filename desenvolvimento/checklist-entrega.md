@@ -16,3 +16,18 @@
 | Completude da evidência de banner | 25% |
 | Lógica de atribuição | 30% |
 | Causa raiz e correção | 25% |
+
+## Campos em amarelo no .docx (preencher com dados REAIS)
+- [ ] Item 2: IP mascarado, porta e organização/ASN
+- [ ] Item 3: trecho literal do banner
+- [ ] Item 4: versão do MongoDB (se visível)
+- [ ] Total de resultados (`count`)
+- [ ] Data da consulta
+- [ ] Remover o destaque amarelo após preencher
+
+## Já aplicado no trabalho
+- [x] Tabela dos 8 itens do enunciado (seção 4.1)
+- [x] Critério de decisão da categoria OWASP (seção 4.3)
+- [x] Quadro sintoma x causa raiz (seção 5)
+- [x] Correções priorizadas por custo (seção 6)
+- [x] Observação interna de finalização removida
