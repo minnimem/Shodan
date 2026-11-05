@@ -1,0 +1,6 @@
+# Evidências brutas com IP completo NUNCA devem ser versionadas
+desenvolvimento/evidencias/*-original.*
+desenvolvimento/evidencias/*-sem-mascara.*
+*.tmp
+~$*
+.DS_Store
